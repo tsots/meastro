@@ -1,0 +1,5 @@
+@use "../styles/global.scss" as u;
+button {
+  background-color: var(--base-color);
+  color: var(--color-text);
+}
