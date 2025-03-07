@@ -3,6 +3,6 @@ import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://tsots.github.io",
-  // base: "meastro",
+  site: "https://tsots/github.io",
+  base: "/meastro",
 });
